@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "hatimkhan",
+    "longName": "Watchface1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bitmap_dashes.png",
+                "name": "BITMAP_DASHES",
+                "type": "png"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_68",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Watchface1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "1aa1e949-4707-4e47-909f-6b9c42d21f5e",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
